@@ -1,0 +1,51 @@
+.App {
+  align-items: center;
+  text-align: center;
+  padding-left: 30%;
+  padding-right: 30%;
+  margin-top: 10%;
+}
+
+#lbl_authorName,
+#lbl_password {
+  margin-right: 10px;
+}
+
+#displayContentModal .modal-body {
+  min-width: 400px;
+  min-height: 400px;
+}
+
+#progress,
+#progress .modal-dialog,
+#progress .modal-content,
+#progress .modal-body {
+  background: transparent;
+  border: none;
+}
+
+#progress {
+  top: 30%;
+  left: 10%;
+}
+
+#BookListBody tr.tdBookList:hover {
+  background-color: lightblue;
+}
+#BookListBody td,
+#BookListBody thead tr th {
+  text-align: left;
+}
+
+ul {
+  list-style: none;
+}
+
+.ul_CheckList .checked {
+  color: green;
+  font-weight: 700;
+}
+
+#noResultTD :hover {
+  background: none !important;
+}
