@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Azuga/static/css/main.596ffe05.chunk.css",
+    "main.js": "/Azuga/static/js/main.19cdc790.chunk.js",
+    "main.js.map": "/Azuga/static/js/main.19cdc790.chunk.js.map",
+    "runtime-main.js": "/Azuga/static/js/runtime-main.d6375a95.js",
+    "runtime-main.js.map": "/Azuga/static/js/runtime-main.d6375a95.js.map",
+    "static/js/2.b10b7c6f.chunk.js": "/Azuga/static/js/2.b10b7c6f.chunk.js",
+    "static/js/2.b10b7c6f.chunk.js.map": "/Azuga/static/js/2.b10b7c6f.chunk.js.map",
+    "static/js/3.79d12f7c.chunk.js": "/Azuga/static/js/3.79d12f7c.chunk.js",
+    "static/js/3.79d12f7c.chunk.js.map": "/Azuga/static/js/3.79d12f7c.chunk.js.map",
+    "index.html": "/Azuga/index.html",
+    "static/css/main.596ffe05.chunk.css.map": "/Azuga/static/css/main.596ffe05.chunk.css.map",
+    "static/js/2.b10b7c6f.chunk.js.LICENSE.txt": "/Azuga/static/js/2.b10b7c6f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6375a95.js",
+    "static/js/2.b10b7c6f.chunk.js",
+    "static/css/main.596ffe05.chunk.css",
+    "static/js/main.19cdc790.chunk.js"
+  ]
+}

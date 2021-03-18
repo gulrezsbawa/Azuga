@@ -1,0 +1,53 @@
+[
+  {
+    "articleId": 1,
+    "title": "Harry Potter",
+    "content": "Sample content for harry potter.",
+    "upvotes": 15,
+    "date": "11/2/2017",
+    "author": "Gulrez"
+  },
+
+  {
+    "articleId": 2,
+    "title": "The Secret",
+    "content": "Sample content for the secret",
+    "upvotes": 29,
+    "date": "19/8/2019",
+    "author": "Rahul"
+  },
+
+  {
+    "articleId": 3,
+    "title": "Ford vs Ferrari",
+    "content": "sample content for Ford vs Ferrari",
+    "upvotes": 25,
+    "date": "11/4/2016",
+    "author": "Richa"
+  },
+
+  {
+    "articleId": 4,
+    "title": "Harry Potter Part 2",
+    "content": "Sample content for harry potter part 2",
+    "upvotes": 5,
+    "date": "11/2/2019",
+    "author": "Gulrez"
+  },
+  {
+    "articleId": 5,
+    "title": "",
+    "content": "dummy sample content",
+    "upvotes": 3,
+    "date": "11/2/2019",
+    "author": "Gulrez"
+  },
+  {
+    "articleId": 6,
+    "title": "Alice in wonderland",
+    "content": "Sample content for Alice in wonderland",
+    "upvotes": 45,
+    "date": "11/2/2016",
+    "author": "Gulrez"
+  }
+]
